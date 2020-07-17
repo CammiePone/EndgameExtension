@@ -7,6 +7,6 @@ ModMCdl - Artemis Mod Development Team
 
 DevMaster1015 - Project Maintainer 1.14+
 
-Camellias_ - Just made the 1.16.1 version for the lulz ¯\_(ツ)_/¯
+Camellias_ - Just made the 1.16.1 version for the lulz ¯\\_(ツ)_/¯
 
 ====================================
