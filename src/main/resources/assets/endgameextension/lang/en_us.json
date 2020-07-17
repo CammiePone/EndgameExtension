@@ -1,0 +1,19 @@
+{
+  "itemGroup.endgameextension": "Endgame Extension",
+
+  "item.endgameextension.quenched_nether_star": "Quenched Nether Star",
+  "item.endgameextension.quenched_nether_star_shard": "Nether Star Shard",
+  "item.endgameextension.lavender_petal": "Lavender Petal",
+  "item.endgameextension.lavender_bushel": "Lavender Bushel",
+  "item.endgameextension.wither_sword": "Wither Sword",
+  "item.endgameextension.wither_pickaxe": "Wither Pickaxe",
+  "item.endgameextension.wither_axe": "Wither Axe",
+  "item.endgameextension.wither_shovel": "Wither Shovel",
+  "item.endgameextension.wither_hoe": "Wither Hoe",
+
+  "block.endgameextension.chiseled_purpur": "Chiseled Purpur",
+  "block.endgameextension.chiseled_soul_bricks": "Soul Brick Keystone",
+  "block.endgameextension.soul_bricks": "Soul Bricks",
+  "block.endgameextension.nether_star_block": "Block of Nether Stars",
+  "block.endgameextension.asphodel": "Asphodel"
+}

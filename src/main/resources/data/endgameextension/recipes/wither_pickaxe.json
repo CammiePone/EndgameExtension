@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "WWW",
+    " I ",
+    " I "
+  ],
+
+  "key":
+  {
+    "W":
+    {
+      "item": "endgameextension:quenched_nether_star_shard"
+    },
+
+    "I":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "endgameextension:wither_pickaxe",
+    "count": 1
+  }
+}

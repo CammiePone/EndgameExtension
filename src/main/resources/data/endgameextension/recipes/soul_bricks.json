@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "#N",
+    "N#"
+  ],
+
+  "key":
+  {
+    "#":
+    {
+      "item": "minecraft:soul_sand"
+    },
+
+    "N":
+    {
+      "item":"endgameextension:quenched_nether_star_shard"
+    }
+  },
+
+  "result":
+  {
+    "item": "endgameextension:soul_bricks",
+    "count": 4
+  }
+}

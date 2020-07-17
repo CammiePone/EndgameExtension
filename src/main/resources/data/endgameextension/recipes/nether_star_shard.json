@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "endgameextension:quenched_nether_star"
+    }
+  ],
+
+  "result":
+  {
+    "item": "endgameextension:quenched_nether_star_shard",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "endgameextension:asphodel_bottom"
+    },
+    "half=upper": {
+      "model": "endgameextension:asphodel_top"
+    }
+  }
+}

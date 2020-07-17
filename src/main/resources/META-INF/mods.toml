@@ -1,0 +1,29 @@
+modLoader="javafml" #mandatory
+loaderVersion="[32,)" #mandatory
+issueTrackerURL="https://github.com/ModMCdl/EndgameExtension/issues" #optional
+
+[[mods]] #mandatory
+modId="endgameextension" #mandatory
+version="0.1.3" #mandatory
+displayName="Endgame Extension" #mandatory
+displayURL="https://www.curseforge.com/minecraft/mc-mods/endgame-extension-mod" #optional
+logoFile="endgameextension.png" #optional
+credits="ModMCdl - AMDT" #optional
+authors="ModMCdl and Camellias_" #optional
+description='''
+Expands the endgame to Vanilla Minecraft.
+'''
+
+[[dependencies.endgameextension]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[32,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+# Here's another dependency
+[[dependencies.endgameextension]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.1]"
+    ordering="NONE"
+    side="BOTH"

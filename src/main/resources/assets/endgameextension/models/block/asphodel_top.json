@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "endgameextension:block/tall_plant/asphodel_top"
+  }
+}
